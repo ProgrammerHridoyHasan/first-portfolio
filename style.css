@@ -128,6 +128,28 @@ body{
         padding-right: 38%;
         text-align: justify;
     }
-    .color2{
+    .donation-updates{
+        text-align: center;
+        margin-top: 100px;
+    
+    }
+    .text-color{
         color: grey;
+        }
+    .subscribe{
+        background-color: beige;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    .background-color{
+        background-color: tomato;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 5px;
+        color: white;
+    
     }

@@ -99,8 +99,25 @@ body{
         
     }
     .donation-content{
-        padding-left: 20%;
-        padding-right: %;
+        width: 50%;
+        padding-left: 15%;
+        
+        
     }
-    
+    .donation-content img{
+        width: 60%;
+        padding-right: 50%;
+
+    }
+    .button-2nd{
+        text-decoration: none;
+        background-color: tomato;
+        padding: 10px 40px;
+        color: white;
+        font-weight: bold;
+        border-radius: 5px;
+    }
+    .big{
+        font-size: 50px;
+    }
  
